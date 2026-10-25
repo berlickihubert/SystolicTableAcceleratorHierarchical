@@ -1,0 +1,18 @@
+{
+    "DESIGN_NAME": "PE_Wn29",
+    "VERILOG_FILES": "dir::../../src/pe/PE_Wn29.sv",
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 10,
+    "FP_SIZING": "absolute",
+    "DIE_AREA": [
+        0,
+        0,
+        130,
+        130
+    ],
+    "FP_PIN_ORDER_CFG": "dir::pe_pin_order.cfg",
+    "PL_TARGET_DENSITY": 0.85,
+    "PDK": "sky130A",
+    "STD_CELL_LIBRARY": "sky130_fd_sc_hd",
+    "VERILOG_POWER_DEFINE": "USE_POWER_PINS"
+}
