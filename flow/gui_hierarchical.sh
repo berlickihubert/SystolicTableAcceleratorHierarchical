@@ -6,7 +6,7 @@ STAGE="53-openroad-rcx"
 CORNER="tt_025C_1v80"
 
 ROOT="/home/hubert/Desktop/studia/praca-inzynierska/silicon-bielik"
-PROJECT="$ROOT/accelerators/SystolicTableAcceleratorHierarchical"
+PROJECT="$ROOT/accelerators/AcceleratorHierarchicalHardcoded"
 OPENLANE_SRC="$ROOT/flow/openlane2-src"
 RUN_DIR="$PROJECT/flow/configs/runs/TOP_HIERARCHICAL"
 MACRO_RUNS="$PROJECT/flow/configs/runs"

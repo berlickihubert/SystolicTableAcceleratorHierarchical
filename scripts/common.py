@@ -6,7 +6,7 @@ DATA_WIDTH = 8
 ACC_WIDTH = 32
 
 ROOT = "/home/hubert/Desktop/studia/praca-inzynierska/silicon-bielik"
-PROJECT = f"{ROOT}/accelerators/SystolicTableAcceleratorHierarchical"
+PROJECT = f"{ROOT}/accelerators/AcceleratorHierarchicalHardcoded"
 MODEL_PATH = f"{ROOT}/models/Bielik-1.5B-v3/model.safetensors"
 
 

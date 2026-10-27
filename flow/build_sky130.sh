@@ -22,7 +22,7 @@ TOP_SKIP_STEPS+=(KLayout.DRC Checker.KLayoutDRC)
 TOP_SKIP_STEPS+=(Checker.SetupViolations Checker.HoldViolations Checker.MaxSlewViolations Checker.MaxCapViolations)
 
 ROOT="/home/hubert/Desktop/studia/praca-inzynierska/silicon-bielik"
-PROJECT="$ROOT/accelerators/SystolicTableAcceleratorHierarchical"
+PROJECT="$ROOT/accelerators/AcceleratorHierarchicalHardcoded"
 OPENLANE_SRC="$ROOT/flow/openlane2-src"
 SCRIPTS="$PROJECT/scripts"
 HERE="$PROJECT/flow"
